@@ -1,10 +1,23 @@
 # Shreya Ramesh's Portfolio
 
-Lab 7:
-- I really liked lab 7 because I thought the card game idea was fun to figure out and I enjoyed learning about Blackjacks as well while doing the coding. I thought coding the sequences of the card game was also interesting and took a bit of critical thinking. I also just had a fun experience writing the functions to coordinate with the game. 
+Hi! I am a first year CSUF student majoring in Biological Sciences. I am retaking this class 
+as I was a Computer Science major in the previous semester. My expected graduation date is after Spring 2027. 
 
-Lab 8:
-- My favorite lab of all was Lab 8. I really loved the madlib concept because I thought it was fun filling in the blanks with the different words. I also think that it was challenging, but nice to figure out and is better and more simplified once you get the hang of it. I enjoyed the overall coding in it because it wasn’t too complicated. 
+# My Favorite CPSC 120L Labs
 
-Lab 12:
-- I also enjoyed Lab 12 because we put into action the things we had learned about in the readings like with the random number generator. I thought it was a bit confusing, but it made it interesting. I liked the incorporation it had from previous labs as well like from Lab 10. 
+Lab 7, part 2: 
+Lab 7, part 2 was one of my favorite labs because I think that the logistics with the road signs
+was interesting. I thought the parking signs was a little difficult to figure out, but still fun. 
+I learned in depth how to work with different functions and overall enjoyed the parking signs
+scheme.
+
+Lab 9, Part 1: 
+This lab was intriguing to me because spell checkers are really helpful tools and making one
+really helped me see what was behind the ones I've seen online. It helped me understand how to use
+for loops in a more complex way, too. Basically, I think it was a hard but cool lab. 
+
+Lab 8, Part 1: 
+This lab was at first really intimidating to me because of the math involved. When I was going
+through it, I remember I was confused, but even still, it was enjoyable for me to do because
+it got me thinking. I think the concept was different with it being about Olympic judges and 
+I learned more about using arguments in this one, too. 
