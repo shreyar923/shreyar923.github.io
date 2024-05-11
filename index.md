@@ -7,7 +7,7 @@ as I was a Computer Science major in the previous semester. My expected graduati
 
 * Lab 7, part 2: 
 
-  Lab 7, part 2 was one of my favorite labs because I think that the logistics with the road signs
+  This was one of my favorite labs because I think that the logistics with the road signs
   was interesting. I thought the parking signs was a little difficult to figure out, but still fun. 
   I learned in depth how to work with different functions and overall enjoyed the parking signs
   scheme.
