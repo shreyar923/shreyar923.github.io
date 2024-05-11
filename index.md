@@ -19,6 +19,7 @@ as I was a Computer Science major in the previous semester. My expected graduati
   for loops in a more complex way, too. Basically, I think it was a hard but cool lab. 
 
 * Lab 8, Part 1: 
+
   This lab was at first really intimidating to me because of the math involved. When I was going
   through it, I remember I was confused, but even still, it was enjoyable for me to do because
   it got me thinking. I think the concept was different with it being about Olympic judges and 
